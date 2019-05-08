@@ -1,0 +1,8 @@
+class world
+{
+public static void main()
+{
+system.out.println("hello to every one");
+}
+}
+
